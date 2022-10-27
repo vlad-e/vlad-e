@@ -1,4 +1,4 @@
-Electrical-bio-environmental ( sort-of) engineer / scientist turning to data.
+Electrical-bio-environmental ( sort-of ) engineer / scientist turning to data.
 
 Making my way through Data Engineerng and Data Science.
 
